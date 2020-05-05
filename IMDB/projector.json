@@ -6,6 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://github.com/Nikhileswar-Komati/Deep-Learning/blob/master/IMDB/vecs.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/Nikhileswar-Komati/Deep-Learning/master/IMDB/vecs.tsv",
       "metadataPath": "https://github.com/Nikhileswar-Komati/Deep-Learning/blob/master/IMDB/meta.tsv"
     }
+  ]
+}
